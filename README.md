@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Omkar Pawar</h1><br>
+<h1>Hi there, I'm Omkar!</h1><br>
 <h3>Full Stack Python Developer 🤓</h3>
 
  📫 You can reach me at : **omkarsp20@gmail.com**
