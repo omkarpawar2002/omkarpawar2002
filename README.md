@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Pawar</h1>
-<h3 align="center">Hi there, I'm Omkar! . Full Stack Python Developer 🤓. Looking forward to utilize my Web Development, Software Development in a Dynamic Environment. 🧑🏻</h3>
+<h3>Hi there, I'm Omkar! . Full Stack Python Developer 🤓. Looking forward to utilize my Web Development, Software Development in a Dynamic Environment. 🧑🏻</h3>
 
 - 📫 How to reach me **omkarsp20@gmail.com**
 
