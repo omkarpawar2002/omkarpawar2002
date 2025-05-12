@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omkar Pawar</h1>
-<h3 align="center">A passionate Full Stack Python Developer from India.</h3>
+<h3 align="center">Hi there, I'm Omkar! . Full Stack Python Developer 🤓. Looking forward to utilize my Web Development, Software Development in a Dynamic Environment. 🧑🏻</h3>
 
 - 📫 How to reach me **omkarsp20@gmail.com**
 
-- ⚡ Fun fact **I think i am funny 😅.**
+- ⚡ Fun fact **Caffeine helps me Code.. ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
